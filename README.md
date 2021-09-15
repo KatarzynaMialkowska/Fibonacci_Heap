@@ -27,9 +27,11 @@ Author: Katarzyna Miałkowska
 ## Development of the program operation, based on the book: Introduction to Algorithms by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein. ##
 
 ## Makefile ##
--> To compile all programs, execute:
+- To compile all programs, execute:
  make all
- -> To clear the contents of unnecessary files, execute:
+ 
+- To clear the contents of unnecessary files, execute:
  make clean
--> In order to run the program, execute:
+ 
+- In order to run the program, execute:
 make fib
