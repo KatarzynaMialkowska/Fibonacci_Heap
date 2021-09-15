@@ -17,7 +17,7 @@ Author: Katarzyna Miałkowska
 8. Remove() operation
 9. Display a graphical representation of the heap in the terminal
 10. Delete all tree elements
-[ x < 10 || x < 0 ] MENU
+[ x < 10 || x < 0 ]. MENU
 	
 2) FibonacciHeap.hxx
 - Includes an implementation of the Fibonacci heap and a generate () function that generates random ones data for the heap.
